@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">CEN MOBILE APP ASSIGNMENT</string>
+    <string name="tab_text_1">ABOUT APP</string>
+    <string name="tab_text_2">DATA VISUALIZATION</string>
+    <string name="tab_text_3">ABOUT ME</string>
+    <string name="coll">STATES</string>
+    <string name="coll2">FAAC 2019</string>
+    <string name="row1state">ABIA</string>
+    <string name="row1FAAC">3,770,386
+
+    </string>
+    <string name="row2state">ADAMAWA</string>
+    <string name="row2FAAC">3,541,854
+</string>
+    <string name="row3state">AKWA IBOM</string>
+    <string name="row3FAAC">3,907,932
+
+
+</string>
+    <string name="row4state">ANAMBRA</string>
+    <string name="row4FAAC">5,787,027
+
+
+</string>
+    <string name="row5state">BAUCHI</string>
+    <string name="row5FAAC">4,018,380
+
+
+</string>
+    <string name="row6state">BAYELSA</string>
+    <string name="row6FAAC">1,455,743
+
+
+</string>
+    <string name="row7state">BENUE</string>
+    <string name="row7FAAC">5,028,385
+
+
+</string>
+    <string name="row8state">BORNO</string>
+    <string name="row8FAAC">3,957,750
+
+
+</string>
+    <string name="row9state">CROSS RIVER</string>
+    <string name="row9FAAC">2,803,088
+
+
+</string>
+    <string name="row10state">DELTA</string>
+    <string name="row10FAAC">6,908,396
+
+
+</string>
+    <string name="row11state">EBONYI</string>
+    <string name="row11FAAC">1,816,906
+
+
+</string>
+    <string name="row12state">EDO</string>
+    <string name="row12FAAC">7,094,868
+
+
+</string>
+    <string name="row13state">EKITI</string>
+    <string name="row13FAAC">1,855,044
+
+
+</string>
+    <string name="row14state">ENUGU</string>
+    <string name="row14FAAC">4,158,399
+
+
+</string>
+    <string name="row15state">GOMBE</string>
+    <string name="row15FAAC">2,705,775
+
+
+</string>
+    <string name="row16state">IMO</string>
+    <string name="row16FAAC">4,526,282
+
+
+</string>
+    <string name="row17state">JIGAWA</string>
+    <string name="row17FAAC">2,556,065
+
+
+</string>
+    <string name="row18state">KADUNA</string>
+    <string name="row18FAAC">8,707,184
+
+
+</string>
+    <string name="row19state">KANO</string>
+    <string name="row19FAAC">12,669,421
+
+
+</string>
+    <string name="row20state">KATSINA</string>
+    <string name="row20FAAC">5,694,207
+
+
+</string>
+    <string name="row21state">KEBBI</string>
+    <string name="row21FAAC">2,944,106
+
+
+</string>
+    <string name="row22state">KOGI</string>
+    <string name="row22FAAC">3,910,650
+
+
+</string>
+    <string name="row23state">KWARA</string>
+    <string name="row23FAAC">4,554,581
+
+
+</string>
+    <string name="row24state">LAGOS</string>
+    <string name="row24FAAC">24,880,677
+
+
+</string>
+    <string name="row25state">NASARAWA</string>
+    <string name="row25FAAC">4,127,155
+
+
+</string>
+    <string name="row26state">NIGER</string>
+    <string name="row26FAAC">6,526,202
+
+
+</string>
+    <string name="row27state">OGUN</string>
+    <string name="row27FAAC">12,013,461
+
+
+</string>
+    <string name="row28state">ONDO</string>
+    <string name="row28FAAC">4,498,770
+
+
+</string>
+    <string name="row29state">OSUN</string>
+    <string name="row29FAAC">4,670,500
+
+
+</string>
+    <string name="row30state">OYO</string>
+    <string name="row30FAAC">10,448,553
+
+
+</string>
+    <string name="row31state">PLATEAU</string>
+    <string name="row31FAAC">3,928,461
+
+
+</string>
+    <string name="row32state">RIVERS</string>
+    <string name="row32FAAC">7,455,105
+
+
+</string>
+    <string name="row33state">SOKOTO</string>
+    <string name="row33FAAC">3,930,658
+
+
+</string>
+    <string name="row34state">TARABA</string>
+    <string name="row34FAAC">2,730,679
+
+
+</string>
+    <string name="row35state">YOBE</string>
+    <string name="row35FAAC">2,993,929
+
+
+</string>
+    <string name="row36state">ZAMFARA</string>
+    <string name="row36FAAC">3,029,803
+
+
+</string>
+    <string name="row37state">FCT</string>
+    <string name="row37FAAC">9,005,131
+
+
+</string>
+</resources>
